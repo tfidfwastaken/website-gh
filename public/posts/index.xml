@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Atharva&#39;s Personal Page</title>
-    <link>http://atharva.social/posts/</link>
+    <link>../posts/</link>
     <description>Recent content in Posts on Atharva&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Jun 2019 15:57:20 +0530</lastBuildDate>
     
-	<atom:link href="http://atharva.social/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="../posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>This Exists in India: Openforge</title>
-      <link>http://atharva.social/posts/openforge/</link>
+      <link>../posts/openforge/</link>
       <pubDate>Thu, 27 Jun 2019 15:57:20 +0530</pubDate>
       
-      <guid>http://atharva.social/posts/openforge/</guid>
+      <guid>../posts/openforge/</guid>
       <description>I had a random thought – what if the Indian Government open-sourced their software? A quick search showed me that they actually do, to some extent. In fact they have a whole platform that hosts repositories for a whole lot of&amp;hellip; you&amp;rsquo;ll see.
 Openforge Around 2015 the Ministry of Electronics and IT (MeitY)1 made a bunch of policies that provided a framework for government source code in repositories and stuff.</description>
     </item>
     
     <item>
       <title>A better echo chamber</title>
-      <link>http://atharva.social/posts/echochamber/</link>
+      <link>../posts/echochamber/</link>
       <pubDate>Fri, 24 May 2019 21:17:47 +0530</pubDate>
       
-      <guid>http://atharva.social/posts/echochamber/</guid>
+      <guid>../posts/echochamber/</guid>
       <description>This blog is going to be very random initially and hopefully it shapes up into something I like. Right now focus is on quantity over quality (hence this post exists).
 As of now this blog is what my twitter account would have looked like had I used twitter. But unlike twitter this echo chamber is superior because it is only me, so it&amp;rsquo;s more echoey. The hollowness due to lack of traffic here should help to some effect too.</description>
     </item>
