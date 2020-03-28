@@ -1,4 +1,4 @@
-baseurl                 = "atharva.social/"               # Your domain name. Must end with "/"
+baseurl                 = "http://atharva.social/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
