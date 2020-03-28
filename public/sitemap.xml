@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://atharva.social/feed/processandtests/</loc>
+    <lastmod>2020-01-01T14:51:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/feed/vim/</loc>
+    <lastmod>2019-12-24T17:04:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/feed/internet-shutdown/</loc>
+    <lastmod>2019-12-21T13:45:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/posts/openforge/</loc>
+    <lastmod>2019-06-27T15:57:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/posts/echochamber/</loc>
+    <lastmod>2019-05-24T21:17:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/resume/</loc>
+    <lastmod>2019-01-20T17:48:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/aboutme/</loc>
+    <lastmod>2019-01-20T12:56:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/</loc>
+    <lastmod>2020-01-01T14:51:03+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/feed/</loc>
+    <lastmod>2020-01-01T14:51:03+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/tags/india/</loc>
+    <lastmod>2019-06-27T15:57:20+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/tags/opensource/</loc>
+    <lastmod>2019-06-27T15:57:20+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/tags/opinion/</loc>
+    <lastmod>2019-12-24T17:04:47+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/posts/</loc>
+    <lastmod>2019-06-27T15:57:20+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/tags/</loc>
+    <lastmod>2019-06-27T15:57:20+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://atharva.social/tags/vim/</loc>
+    <lastmod>2019-12-24T17:04:47+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atharva&#39;s Personal Page</title>
+    <link>http://atharva.social/</link>
+    <description>Recent content on Atharva&#39;s Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 14:51:03 +0530</lastBuildDate>
+    
+	<atom:link href="http://atharva.social/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Process and Tests</title>
+      <link>http://atharva.social/feed/processandtests/</link>
+      <pubDate>Wed, 01 Jan 2020 14:51:03 +0530</pubDate>
+      
+      <guid>http://atharva.social/feed/processandtests/</guid>
+      <description>A test evaluates the outcome of a process.
+A good way to know if a system is not doing well is if the process is designed around the test, or to put it more bluntly, the process is hacked to optimize for the test.1
+Examples that come to mind:
+ Schools, where teaching is more about making students do well in their test rather than sharing knowledge and making people curious and critical thinkers.</description>
+    </item>
+    
+    <item>
+      <title>On Vim</title>
+      <link>http://atharva.social/feed/vim/</link>
+      <pubDate>Tue, 24 Dec 2019 17:04:47 +0530</pubDate>
+      
+      <guid>http://atharva.social/feed/vim/</guid>
+      <description>A lot has been said about Vim by programmers. For something that is just yet another fancy hammer to help construct a program, too much has been said about it.
+Yet I found most of it not constructive to my personal experience of using Vim. Too many people take an extreme position and vehemently speak for or against it, most likely because it becomes a belief attached to their identity, much like a religion.</description>
+    </item>
+    
+    <item>
+      <title>Non-Controversial Opinion: Internet Shutdowns</title>
+      <link>http://atharva.social/feed/internet-shutdown/</link>
+      <pubDate>Sat, 21 Dec 2019 13:45:50 +0530</pubDate>
+      
+      <guid>http://atharva.social/feed/internet-shutdown/</guid>
+      <description>You&amp;rsquo;d think it&amp;rsquo;s easy to agree that internet shutdowns are an uncontroversially terrible idea, except the Indian Government loves to do them so much, that I don&amp;rsquo;t even know anymore.
+Human rights violations and suppression of freedom reasons aside — it is still so painfully destructive. Economic productivity is ruined and a lot of critical systems rely on the internet. It causes more chaos as information is no more easily verifiable and people would rely more on hearsay.</description>
+    </item>
+    
+    <item>
+      <title>This Exists in India: Openforge</title>
+      <link>http://atharva.social/posts/openforge/</link>
+      <pubDate>Thu, 27 Jun 2019 15:57:20 +0530</pubDate>
+      
+      <guid>http://atharva.social/posts/openforge/</guid>
+      <description>I had a random thought – what if the Indian Government open-sourced their software? A quick search showed me that they actually do, to some extent. In fact they have a whole platform that hosts repositories for a whole lot of&amp;hellip; you&amp;rsquo;ll see.
+Openforge Around 2015 the Ministry of Electronics and IT (MeitY)1 made a bunch of policies that provided a framework for government source code in repositories and stuff.</description>
+    </item>
+    
+    <item>
+      <title>A better echo chamber</title>
+      <link>http://atharva.social/posts/echochamber/</link>
+      <pubDate>Fri, 24 May 2019 21:17:47 +0530</pubDate>
+      
+      <guid>http://atharva.social/posts/echochamber/</guid>
+      <description>This blog is going to be very random initially and hopefully it shapes up into something I like. Right now focus is on quantity over quality (hence this post exists).
+As of now this blog is what my twitter account would have looked like had I used twitter. But unlike twitter this echo chamber is superior because it is only me, so it&amp;rsquo;s more echoey. The hollowness due to lack of traffic here should help to some effect too.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://atharva.social/resume/</link>
+      <pubDate>Sun, 20 Jan 2019 17:48:08 +0530</pubDate>
+      
+      <guid>http://atharva.social/resume/</guid>
+      <description>hahahaha what resume i just got into college</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://atharva.social/aboutme/</link>
+      <pubDate>Sun, 20 Jan 2019 12:56:28 +0530</pubDate>
+      
+      <guid>http://atharva.social/aboutme/</guid>
+      <description>I&amp;rsquo;m not that good at describing myself so I let a friend who cannot draw Santa Claus do it:
+(definitely not edited to make myself look better)
+ Atharva has an odd sense of humour and the curiosity of a five-year old. He is moderately easy to talk to and will most definitely appear like he knows everything about everything.
+ I got a free server, a free domain, and a lot of free time, and that&amp;rsquo;s why you are seeing this.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensource on Atharva&#39;s Personal Page</title>
+    <link>http://atharva.social/tags/opensource/</link>
+    <description>Recent content in Opensource on Atharva&#39;s Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jun 2019 15:57:20 +0530</lastBuildDate>
+    
+	<atom:link href="http://atharva.social/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Exists in India: Openforge</title>
+      <link>http://atharva.social/posts/openforge/</link>
+      <pubDate>Thu, 27 Jun 2019 15:57:20 +0530</pubDate>
+      
+      <guid>http://atharva.social/posts/openforge/</guid>
+      <description>I had a random thought – what if the Indian Government open-sourced their software? A quick search showed me that they actually do, to some extent. In fact they have a whole platform that hosts repositories for a whole lot of&amp;hellip; you&amp;rsquo;ll see.
+Openforge Around 2015 the Ministry of Electronics and IT (MeitY)1 made a bunch of policies that provided a framework for government source code in repositories and stuff.</description>
+    </item>
+    
+  </channel>
+</rss>

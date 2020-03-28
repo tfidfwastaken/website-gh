@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html class="otherbg">
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+<meta name="description" content="Atharva&#39;s Blog">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:domain" content="http://atharva.social/">
+
+<meta name="twitter:image" content="http://atharva.social/githubprof.png">
+<meta name="twitter:title" property="og:title" itemprop="title name" content="Atharva&#39;s Personal Page">
+<meta name="twitter:description" property="og:description" itemprop="description" content="Atharva&#39;s Blog">
+<meta name="og:type" content="website">
+<meta name="og:url" content="http://atharva.social/">
+<meta name="og:image" itemprop="image primaryImageOfPage" content="http://atharva.social/githubprof.png">
+
+<link rel="shortcut icon" href="http://atharva.social/favicon.ico" id="favicon">
+<link rel="stylesheet" href="/css/style.css">
+
+
+<link href="https://fonts.googleapis.com/css?family=Space+Mono:400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i" rel="stylesheet">
+
+
+
+    
+
+    
+    
+    
+    <title>
+        
+        This Exists in India: Openforge
+        
+    </title>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="section" id="title">This Exists in India: Openforge</div>
+
+        
+<div class="section" id="content">
+    Thu Jun 27, 2019 &#183; 1311 words
+    
+    <div class="tag-container">
+        
+        <span class="tag">
+            <a href="http://atharva.social/tags/opensource">
+                opensource
+            </a>
+        </span>
+        
+        <span class="tag">
+            <a href="http://atharva.social/tags/india">
+                india
+            </a>
+        </span>
+        
+    </div>
+    
+    <hr/>
+    
+
+<p>I had a random thought – what if the Indian Government open-sourced their software? A quick search showed me that they actually do, to some extent.
+In fact they have a whole platform that hosts repositories for a whole lot of&hellip; you&rsquo;ll see.</p>
+
+<h3 id="openforge">Openforge</h3>
+
+<p>Around 2015 the Ministry of Electronics and IT (MeitY)<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup> made a bunch of policies that provided a framework for government source code in repositories and stuff.</p>
+
+<p>Fast forward to 2017 and the government brought in Amit Ranjan as the architect of Openforge. Interestingly, Amit Ranjan comes the startup world and was the co-founder and COO of SlideShare.
+No wonder the site looks prettier than what you&rsquo;d typically expect from the Indian Government.</p>
+
+
+<figure>
+    
+        <img src="full_site.jpg" alt="Full Site" />
+    
+    
+</figure>
+
+
+<p>So I obviously decided to explore and see how it&rsquo;s coming along.</p>
+
+<h3 id="closedforge">Closedforge</h3>
+
+<p>One of the first few things I did was register an account on their portal, and jumped right into the projects hosted on it. Navigation was decent, although most projects didn&rsquo;t bother categorising themselves properly, which limits the usefulness of having all these categories in the first place.</p>
+
+
+<figure>
+    
+        <img src="categs.png" alt="Too much not specified" />
+    
+    
+    <figcaption>
+        <p>
+        Star of the show: Not Specified
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>So I instead sorted by popularity. Surely that would give a good picture of what the Openforge community is like, right?</p>
+
+<p>If that&rsquo;s the case it&rsquo;s one sad scene only.</p>
+
+<p>The projects itself seem pretty interesting. The Government&rsquo;s e-Marketplace is currently the most popular project there. It&rsquo;s what the ministries are apparently using as a marketplace for procurement of goods. So I click on it. Time to see that glorious, augustine source code.</p>
+
+<p>The git dashboard is pretty complete, especially for a kid like me. You can see the project tree, commits, diffs and logs. A reference to the documentation shows that if a project requires it, you can setup dashboards on the project page for Continuous Integration, Mailing Lists, Wikis, Agile and a whole other bunch of stuff that I know nothing about. It has support for trackers and a REST API too (Though the docs don&rsquo;t make it clear enough as to what it actually does).</p>
+
+<p>Oh, and it supports SVN too.</p>
+
+<p>There is no syntax highlighting yet though. Not a deal breaker, in my opinion.</p>
+
+<p>After that I hopped on to the next project, called &ldquo;Delhi Police-onetouch&rdquo;. It said I need to log in to view the code contents.</p>
+
+
+<figure>
+    
+        <img src="loginplis.png" alt="Login Prompt" />
+    
+    
+</figure>
+
+
+<p>Alrighty then I&rsquo;ll&hellip; oh wait. I am already logged in!</p>
+
+<p>That&rsquo;s strange. The project&rsquo;s privacy settings are set to &ldquo;public&rdquo;, so that&rsquo;s no issue. Either Openforge doesn&rsquo;t straight up do its job well, or there is a bug and the message is supposed to be something else.</p>
+
+<p>With no way to see that, I decided to move on to the next one in the list.</p>
+
+<p>Same issue. Oh well. Next one? Yep, still happening.</p>
+
+<p>I got till the tenth project listed there before I gave up. So much for the <em>Open</em> in Openforge<sup class="footnote-ref" id="fnref:2"><a href="#fn:2">2</a></sup>.</p>
+
+<p>Also in the projects that did work, the website wasn&rsquo;t nearly as snappy in fetching the code as I&rsquo;d like.</p>
+
+<h3 id="community">Community</h3>
+
+<p>The homepage says that students, academia, startups, Open Source Devs and Corporations are free to participate in the platform. The caveat being all the registered projects have to have some overlap with governance or civic areas. So all registered projects have to pass this filter in order to be hosted on Openforge. And members who don&rsquo;t work for any government department cannot make private projects.</p>
+
+<p>According to the FAQ&rsquo;s the reason Openforge was made even though GitHub and SourceForge exist is because of this government application specialisation<sup class="footnote-ref" id="fnref:3"><a href="#fn:3">3</a></sup> and the fact that many government employees face restrictions on putting their data on foreign servers.</p>
+
+<p>Okay then.</p>
+
+<p>Let&rsquo;s see what Real People on Openforge are saying. Onto the forums!</p>
+
+
+<figure>
+    
+        <img src="forums.png" alt="Forums page" />
+    
+    
+    <figcaption>
+        <p>
+        These are all the messages ever posted on these forums
+        
+            
+        
+        </p> 
+    </figcaption>
+    
+</figure>
+
+
+<p>Here are some assorted snippets of interesting conversations:</p>
+
+<hr />
+
+<h4 id="1-the-blockchainer">1. The blockchainer</h4>
+
+<p>By: Abhishek Upperwal (a.upperwal)<br />
+Problems you face while filing an FIR<br />
+21/10/2018 at 10:00 AM</p>
+
+<p>I look forward to compile a list of issues people face while filing an FIR. We plan to design a decentralised solution (based on blockchains) for complaint redressal system which can register a complaint which is tamper proof and the entire life cycle of the complaint can be committed and tracked on the same chain. This will bring in more transparency and build a tamper proof system.</p>
+
+<p>I am aware of privacy related issues and tackle them as we go.</p>
+
+<p>To kickstart the discussion here are few pain points I can think of.</p>
+
+<ol>
+<li><p>Jurisdiction issue: People don&rsquo;t know where to go to file a complaint. Jurisdiction allocated to each police station is weird. Footpath to some police station and main road to some other station, yeah that&rsquo;s true.</p></li>
+
+<li><p>No nation wide complaint filing and tracking: Although policing is a state matter but still we can have a nation wide complaint filing and tracking system. Each complaint can then be redirected to the station responsible.</p></li>
+</ol>
+
+<p>You are welcome to add to this list. Even discuss, what you want to see in such a system.</p>
+
+<p>Thanks</p>
+
+<hr />
+
+<h4 id="2-the-blockchainer-aadhar-and-upi-edition">2. The Blockchainer: Aadhar and UPI edition</h4>
+
+<p>By: Jerric Lyns John (jerriclynsjohn)<br />
+GST on blockchain<br />
+31/08/2017 at 11:05 AM</p>
+
+<p>We are starting a working group to present to the govt blockchain based implementation using AADHAR and UPI. The intention is to make a public document and code base left out for innovation from across the world. Intention is to streamline the process, which can be automated to a super great extend.</p>
+
+<hr />
+
+<h4 id="3-will-my-efforts-materialise">3. Will my efforts materialise?</h4>
+
+<p>By: Gopal Krishan Aggarwal (gopalkriagg)<br />
+Need help in starting<br />
+17/03/2018 at 16:03 PM<br />
+Hi! I am a software engineer really interested in contributing to India&rsquo;s development. This looks like a nice place for that but I am not sure how my efforts will actually materialise. For example, I would like to know, from where are the projects available on OpenForge coming? Are they real government projects? If I contribute in any of them, will my time and effort actually impact people&rsquo;s life?</p>
+
+<p>By: Amit Savant (amitsavant)<br />
+RE: Need help in starting<br />
+03/04/2018 at 10:59 AM<br />
+Dear Mr. Gopal, thank you very much for your interest in OpenForge and the willingness to contribute to the eGovernance projects. The projects on OpenForge are mostly contributed by Government departments. But private organisations, academic institutions and communities can also host projects on OpenForge as long as the projects are related to eGovernance domains and are open source. We are continuously working on bringing in an increasing number of projects on OpenForge. Any contribution to these projects will help to make eGovernance projects better.<br />
+- OpenForge Team</p>
+
+<p>(<em>He didn&rsquo;t really answer the main question</em> :/)</p>
+
+<hr />
+
+<h4 id="4-i-m-appalled-thx">4. I&rsquo;m appalled, thx</h4>
+
+<p>By: Sunil Choudhary (suchoudh)<br />
+This forum needs a moderator.<br />
+06/01/2019 at 01:29 AM</p>
+
+<p>Guys<br />
+We need a moderator.<br />
+I am apalled to see the kind of spam in this forum.</p>
+
+<p>Can you make me the moderator for the forums untill we have someone formally taking up the role.</p>
+
+<p>thx<br />
+Sunil Choudhary</p>
+
+<hr />
+
+<h3 id="conclusion-time">Conclusion time</h3>
+
+<p>I like that the government is actually trying to push Open Source. The execution of Openforge has a long way to go.</p>
+
+<p>Contributing to Open Source can be quite daunting, and Openforge did not look welcoming at all to a student like me. The community still seems to be in its early stages and somewhat hushed and insular.</p>
+
+<p>Maybe I&rsquo;ll check back in a few years.</p>
+
+<p>This wasn&rsquo;t a review but Openforge gets a light <sup>5</sup>&frasl;<sub>10</sub> for me.</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">Not sure where that &lsquo;Y&rsquo; came from ¯\_(ツ)_/¯
+ <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
+<li id="fn:2">I did find a few more random projects where the code was actually viewable, but the vast majority of the popular ones seem to have this issue. I did notice that the all the projects having these issues seem to be from this one specific pool of contributors. Can&rsquo;t explain it though.
+ <a class="footnote-return" href="#fnref:2"><sup>[return]</sup></a></li>
+<li id="fn:3">Looks like the Indian Government has no interest in using <a href="https://government.github.com/">this</a>.
+ <a class="footnote-return" href="#fnref:3"><sup>[return]</sup></a></li>
+</ol>
+</div>
+
+</div>
+
+
+        
+<div class="section bottom-menu">
+    
+<hr />
+<p>
+
+
+    
+        <a href="/posts">back</a>
+        
+            &#183;
+        
+    
+
+    
+        
+            <a href="/posts">
+                posts
+            </a>
+        
+    
+    
+        
+            &#183; 
+            <a href="/feed">
+                feed
+            </a>
+        
+            &#183; 
+            <a href="/aboutme">
+                who dis?
+            </a>
+        
+    
+    &#183; 
+    <a href="http://atharva.social/">
+        home
+    </a>
+
+</p>
+
+</div>
+
+
+        <div class="section footer">i should put a copyright message here i think.</div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vim on Atharva&#39;s Personal Page</title>
+    <link>http://atharva.social/tags/vim/</link>
+    <description>Recent content in Vim on Atharva&#39;s Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 17:04:47 +0530</lastBuildDate>
+    
+	<atom:link href="http://atharva.social/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Vim</title>
+      <link>http://atharva.social/feed/vim/</link>
+      <pubDate>Tue, 24 Dec 2019 17:04:47 +0530</pubDate>
+      
+      <guid>http://atharva.social/feed/vim/</guid>
+      <description>A lot has been said about Vim by programmers. For something that is just yet another fancy hammer to help construct a program, too much has been said about it.
+Yet I found most of it not constructive to my personal experience of using Vim. Too many people take an extreme position and vehemently speak for or against it, most likely because it becomes a belief attached to their identity, much like a religion.</description>
+    </item>
+    
+  </channel>
+</rss>
