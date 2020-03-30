@@ -2,6 +2,7 @@
 title: "Process and Tests"
 date: 2020-01-01T14:51:03+05:30
 type: posts
+tags: ["random thoughts"]
 ---
 
 A test evaluates the outcome of a process.
