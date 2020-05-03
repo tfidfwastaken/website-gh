@@ -39,5 +39,9 @@ pluralizelisttitles     = "false"
     link = "/aboutme"
     text = "who dis?"
 
+[[params.mainMenu]]
+    link = "/index.xml"
+    text = "rss"
+
 [taxonomies]
     tag = "tags"
