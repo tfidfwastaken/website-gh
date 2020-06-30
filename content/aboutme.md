@@ -19,7 +19,7 @@ I got a free server, a free domain, and a lot of free time, and that's why you a
 A high energy, playful and funny punk rock band from Japan. So much fun. All members have great chemistry. Their titling game here is also strong with titles like "6 Day Working Week Is a Pain".
 
 - Backxwash - God Has Nothing To Do With This Leave Him Out Of It  
-A dark, abrasive and aggresive record with odd sampling choices (and sometimes wonderfully harsh guitars) tied together with Backxwash's intense delivery. Some of the most progressive and fantastic music I have heard all year.
+A dark, abrasive and aggressive record with odd sampling choices (and sometimes wonderfully harsh guitars) tied together with Backxwash's intense delivery. Some of the most progressive and fantastic music I have heard all year.
 
 - Portishead - Dummy  
 A trip hop classic that I recently discovered. The grimy ambient sounds and trashy drum loops juxtaposed with the lead singer's strong but serene vocals make for an amazing aesthetic.
