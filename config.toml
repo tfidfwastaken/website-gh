@@ -5,8 +5,8 @@ isMultilingual          = false
 title                   = "Atharva's Personal Page"
 theme                   = "sam"
 pluralizelisttitles     = "false"
-# pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
-# pygmentsCodefences      = true
+pygmentsStyle           = "tango"                     # https://help.farbox.com/pygments.html
+pygmentsCodefences      = true
 # googleAnalytics         = ""             # Tracking code, eg. "UA-111111111-1"
 
 [params]

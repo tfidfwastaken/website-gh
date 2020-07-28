@@ -23,6 +23,9 @@
 <!--link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Didact+Gothic"-->
 <link href="https://fonts.googleapis.com/css?family=Space+Mono:400,700" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i" rel="stylesheet">
+
+{{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 {{ if .Site.GoogleAnalytics }}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{.Site.GoogleAnalytics}}"></script>

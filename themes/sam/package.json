@@ -16,9 +16,9 @@
   "devDependencies": {
     "autoprefixer": "^9.1.2",
     "chokidar-cli": "^1.2.0",
-    "node-sass": "^4.9.3",
+    "lodash": "^4.17.10",
+    "node-sass": "^4.14.1",
     "postcss": "^7.0.2",
-    "postcss-cli": "^6.0.0",
-    "lodash": "^4.17.10"
+    "postcss-cli": "^6.0.0"
   }
 }
