@@ -1,5 +1,5 @@
 ---
-title: "Am_not_uptight"
+title: "am not uptight"
 date: 2020-09-17T23:06:37+05:30
 ---
 
