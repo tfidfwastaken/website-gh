@@ -15,20 +15,8 @@ I got a free server, a free domain, and a lot of free time, and that's why you a
 
 ### What I'm listening to these days
 
-- Otoboke Beaver - Itekoma Hits  
-A high energy, playful and funny punk rock band from Japan. So much fun. All members have great chemistry. Their titling game here is also strong with titles like "6 Day Working Week Is a Pain".
-
-- Backxwash - God Has Nothing To Do With This Leave Him Out Of It  
-A dark, abrasive and aggressive record with odd sampling choices (and sometimes wonderfully harsh guitars) tied together with Backxwash's intense delivery. Some of the most progressive and fantastic music I have heard all year.
-
-- Portishead - Dummy  
-A trip hop classic that I recently discovered. The grimy ambient sounds and trashy drum loops juxtaposed with the lead singer's strong but serene vocals make for an amazing aesthetic.
-
-- RTJ4 - Run The Jewels  
-Great tracks, great rapping, great chemistry, a timely (albeit mostly for America) message on really solid well produced beats that *slap*. And yet, like with all other Run The Jewels projects, I won't be going back to this ever for the most part. Doesn't really click with me.
-
-- The New Abnormal- The Strokes  
-The Strokes give that magical nostalgic sound of guitars and synths with Julian Casablanca's emotionally potent delivery, that make for a really solid album. Probably my favourite this year so far.
+- Sevdaliza – Shabrang
+- Charli XCX – how i'm feeling now
 
 ### What I'm reading now
 

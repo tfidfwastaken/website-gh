@@ -3,7 +3,6 @@ title: "0.1 + 0.2 is not 0.3 and other ways to make money disappear amidst a nuc
 date: 2020-07-28T12:21:47+05:30
 tags: ["floating point", "practices"]
 katex: true
-draft: true
 ---
 
 _This post is a crosspost of the original at [the PES Open Source blog](https://pesos.github.io/2020/07/22/01-plus-02-is-not-03.html)_
